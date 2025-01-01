@@ -225,7 +225,7 @@ start_menu(){
     green "清除完毕"
 	;;    
 	7)
-    bash <(curl -L -s https://raw.githubusercontent.com/edwardgg877/codes/master/caddy/caddy.sh)
+    bash <(curl -L -s https://raw.githubusercontent.com/Baiyuetribe/codes/master/caddy/caddy.sh)
 	;;
 	0)
 	exit 1
